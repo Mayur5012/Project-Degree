@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Project-Degree/static/css/main.b441a52c.css",
+    "main.js": "/Project-Degree/static/js/main.376f0290.js",
+    "static/js/787.6b1643e0.chunk.js": "/Project-Degree/static/js/787.6b1643e0.chunk.js",
+    "static/media/card1.jpg": "/Project-Degree/static/media/card1.a64e7e294f1121209d37.jpg",
+    "static/media/homeimg.jpg": "/Project-Degree/static/media/homeimg.082a3fb5ee5e4463677f.jpg",
+    "static/media/card2.jpg": "/Project-Degree/static/media/card2.4974e13bb48fc53b2644.jpg",
+    "index.html": "/Project-Degree/index.html",
+    "main.b441a52c.css.map": "/Project-Degree/static/css/main.b441a52c.css.map",
+    "main.376f0290.js.map": "/Project-Degree/static/js/main.376f0290.js.map",
+    "787.6b1643e0.chunk.js.map": "/Project-Degree/static/js/787.6b1643e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b441a52c.css",
+    "static/js/main.376f0290.js"
+  ]
+}
